@@ -1,5 +1,5 @@
 # ZeS0MeBr
- Python script attack all social media accounts .. created by Yasser Janah (th3x0ne)
+ Python script attack all social media accounts .. created by Theuserisdead
 
 ```
     [+] AUTOR:        Kyvzxc  
