@@ -11,7 +11,7 @@
 
 Firstly get the code:
 ```
-git clone https://github.com/yasserjanah/ZeS0MeBr.git
+git clone https://github.com/theuserisdead/ZeS0MeBr.git
 cd ZeS0MeBr/
 pip3 install -r requirements.txt
 ```
