@@ -2,10 +2,10 @@
  Python script attack all social media accounts .. created by Theuserisdead
 
 ```
-    [+] AUTOR:        Kyvzxc  
-    [+] GITHUB:       https://github.com/kyvzxc
-    [+] TWITTER:      https://twitter.com/kyvzxc 
-    [+] FACEBOOK:     https://fb.com/kyvzxc
+    [+] AUTOR:        theuserisdead 
+    [+] GITHUB:       https://github.com/theuserisdead
+    [+] TWITTER:      https://twitter.com/theuserisdead 
+    [+] FACEBOOK:     https://fb.com/theuserisdead
 ```
 # Getting the code
 
